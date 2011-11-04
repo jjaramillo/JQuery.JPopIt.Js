@@ -1,4 +1,3 @@
-
 Copyright (c) 2011 Jaime Alberto Jaramillo Zapata (@g4m30n, jjaramillo@about.me)
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -51,6 +50,8 @@ The following are the current supported javascript literal options and their def
     'Height': 50 - Minimum height for the bubble
 
 -Pending Work:
-	>Content should supports url (and do the server call and render the server response)
+	>Content should support urls (and do the server call and render the server response)
 	>Callbacks
-	>There is some unwante behavior when you try to close the bubbles manually
+	>There is some unwanted behavior when you try to close the bubbles manually
+        >Thinking about placing the bubbles anywhere and displaying them horizontally and vertically.
+	>Custom Show/Hide animations
