@@ -23,7 +23,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 /*
  * Jquery.JPopIt.js
- * A simple 'Pop it' facebook like plugin to display alert
+ * A simple 'Pop it' facebook like plugin to display alerts
  *
  */
 
